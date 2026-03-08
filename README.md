@@ -1,8 +1,5 @@
 # Kuramoto Model: Phase Transitions & Synchronization
 
-**Course:** IDC621 Modelling Complex Systems (Term Paper 2)  
-**Author:** [Your Name]  
-
 This repository contains a high-performance Python simulation of the **Kuramoto model**, a foundational mathematical framework used to study synchronization in complex systems. The code models a large population of coupled limit-cycle oscillators and visualizes their macroscopic phase transitions.
 
 ## 📌 Project Overview
